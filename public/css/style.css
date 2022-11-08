@@ -1,0 +1,55 @@
+h2{
+  background-color: #03a0ff;
+  margin: 15px;
+  padding: 20px;
+}
+h1{
+  margin-top: 10px;
+  text-align: center;
+}
+#myheader{
+  text-align: center;
+  
+}
+nav{
+  padding: 10px;
+  text-align: center;
+  background-color: #60d7f7;
+}
+body{
+  background-color: lightblue;
+  min-height: 70vh;
+  display: flex;
+  flex-direction: column;
+}
+
+#myhome{
+  text-align: center;
+  color: blue;
+}
+
+#mydisplay{
+  display: flex;
+}
+
+#mydisplay2{
+  display: flex;
+}
+footer {
+  padding: 10px;
+  background-color: #60d7f7;
+  bottom: 0;
+  width: 100%;
+  position: fixed;
+}
+#footer {
+  color: black;
+  margin-left: 10px;
+  font-size: 20px;
+}
+footer {
+  display: flex;
+}
+.csumblogo {
+  width: 200px;
+}
